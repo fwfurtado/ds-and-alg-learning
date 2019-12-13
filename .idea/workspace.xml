@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0533ffa4-9de3-4dc6-a9d6-81f62c6bb872" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="data-structure-and-algorithms" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SoNG0QqAWQE5JhM50RCZAEhBvW" />
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/me/fwfurtado/list" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.fwfurtado.hash" />
+      <recent name="me.fwfurtado.list" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="me.fwfurtado.list.linked" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HashBenchmark verbose">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HashBenchmark verbose" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="me.fwfurtado.hash.HashBenchmark" />
+      <module name="data-structure-and-algorithms.main" />
+      <option name="PROGRAM_PARAMETERS" value="-v extra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.fwfurtado.hash.HashTable" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashBenchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.fwfurtado.hash.HashBenchmark" />
+      <module name="data-structure-and-algorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.fwfurtado.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest.shouldAddElementsWithCollisionButItIsNotEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-and-algorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.fwfurtado.hash.HashTable" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.fwfurtado.hash" />
+      <option name="MAIN_CLASS_NAME" value="me.fwfurtado.hash.HashTableTest" />
+      <option name="METHOD_NAME" value="shouldAddElementsWithCollisionButItIsNotEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest.shouldDistributeTheElementsByKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-and-algorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.fwfurtado.hash.HashTable" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.fwfurtado.hash" />
+      <option name="MAIN_CLASS_NAME" value="me.fwfurtado.hash.HashTableTest" />
+      <option name="METHOD_NAME" value="shouldDistributeTheElementsByKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest.shouldFindAnStudentIfThisExistInHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-and-algorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.fwfurtado.hash.HashTable" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.fwfurtado.hash" />
+      <option name="MAIN_CLASS_NAME" value="me.fwfurtado.hash.HashTableTest" />
+      <option name="METHOD_NAME" value="shouldFindAnStudentIfThisExistInHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashBenchmark" />
+      <item itemvalue="Application.HashBenchmark verbose" />
+      <item itemvalue="JUnit.HashTableTest.shouldAddElementsWithCollisionButItIsNotEquals" />
+      <item itemvalue="JUnit.HashTableTest.shouldDistributeTheElementsByKey" />
+      <item itemvalue="JUnit.HashTableTest.shouldFindAnStudentIfThisExistInHash" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashBenchmark verbose" />
+        <item itemvalue="Application.HashBenchmark" />
+        <item itemvalue="JUnit.HashTableTest.shouldDistributeTheElementsByKey" />
+        <item itemvalue="JUnit.HashTableTest.shouldFindAnStudentIfThisExistInHash" />
+        <item itemvalue="JUnit.HashTableTest.shouldAddElementsWithCollisionButItIsNotEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0533ffa4-9de3-4dc6-a9d6-81f62c6bb872" name="Default Changelist" comment="" />
+      <created>1572225888909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572225888909</updated>
+      <workItem from="1572225890392" duration="7199000" />
+      <workItem from="1572264762200" duration="6000" />
+      <workItem from="1572286616442" duration="2668000" />
+      <workItem from="1574946058194" duration="7335000" />
+      <workItem from="1574975396177" duration="7571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="table[index]" language="JAVA" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="original.toString()" language="JAVA" />
+        <watch expression="first.getContent()" language="JAVA" />
+        <watch expression="before.getContent()" language="JAVA" />
+        <watch expression="current.getContent()" language="JAVA" />
+        <watch expression="after.getContent()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
